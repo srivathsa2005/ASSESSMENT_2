@@ -5,6 +5,8 @@ int main()
 		printf("enter the number:");
              scanf("%d",a);
 	     printf("enter the second number:);
+	     else
+		     (if  it is odd number);
 	     return 0;
 
 
