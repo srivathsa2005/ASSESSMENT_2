@@ -1,4 +1,4 @@
-include<stdio.h>
+includfes<stdio.h>
 int main()
 {
 	int a,b 
