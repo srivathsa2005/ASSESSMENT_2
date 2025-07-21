@@ -5,4 +5,6 @@ int main()
 		printf("enter the number:");
              scanf("%d",a);
 	     printf("enter the second number:);
+	     return 0;
+
 
